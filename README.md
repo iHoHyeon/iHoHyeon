@@ -14,7 +14,6 @@
 <img alt="NestJS" src ="https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white"/>
   <br/>
 <img alt="Solidity" src ="https://img.shields.io/badge/Solidity-363636.svg?&style=for-the-badge&logo=Solidity&logoColor=white"/>
-<img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iHoHyeon&hide=stars&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
